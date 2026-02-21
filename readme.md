@@ -5,10 +5,9 @@ I'm a front-end focused full stack web deveolper with a boderline unhealthy obse
 **Currently Building:** Apexion
 
 **Typical Tech Stack:**
-- Next.js w/ TypeScript
-- WordPress w/ WPQraphQL
+- Next.js w/ TS
 - Tailwind CSS
 - Shadcn UI
 - Clerk
-- DynamoDB // MySQL
+- Supabase // Postgres
 - Vercel // Docker // EC2
